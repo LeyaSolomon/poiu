@@ -1,0 +1,63 @@
+body{
+    background: rgb(248, 232, 234)
+}
+
+.mytext{
+    color: cadetblue;
+    margin-top: 8px;
+    /* color: rgba(0, 0, 0, 0.4); */
+    font-size: 22px;
+    line-height: 32px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(64, 169, 235) ;
+}
+
+
+a:hover{
+    color:rgb(221, 85, 85) ;
+}
+.pic1{
+    width: 25%;  /* width -  ширина в данном случае картинки  */
+    margin: 2%;  /* margin - внешний отступ */
+    border-radius: 10px; /* border-radius - скругление углов */
+}
+article{
+    width: 700px ;
+    background-color: rgb(159, 216, 216);
+    margin: 150px auto;
+}  
+
+h1{
+    color: rgb(64, 169, 235);
+    font-size: 38px;
+    margin-top: 66px;
+    line-height: 45px;
+}
+
+h1 + hr + p + p {
+   margin-top: 8px;
+   color: rgba(0, 0, 0, 0.289);
+   font-size: 22px;
+   line-height:32px ;
+}
+
+h2{
+  margin-top: 50ps;
+  font-size:  32px; 
+  line-height:  36px; 
+  color: rgba(0, 0, 0, 0.097);
+}
+
+h2+blockquote,h2 + p{
+    margin-top:8px ;
+}
+
+blockquote{
+    font-style: italic;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

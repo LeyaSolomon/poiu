@@ -1,0 +1,24 @@
+@font-face {
+    font-family:url "SnellRoundhand" ;
+    src: url(ofont.ru_SnellRoundhand.ttf)format("truetype");
+}
+
+a{
+    font-family:"SnellRoundhand" ;
+}
+
+h1{
+    font-family:"SnellRoundhand" ;
+}
+
+.viki_h1{
+    font-family:"SnellRoundhand" ;
+}
+
+.viki_h2{
+    font-family:"SnellRoundhand" ;
+}
+
+.li_2{
+    font-family:"SnellRoundhand" ;
+}
